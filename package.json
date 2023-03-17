@@ -1,0 +1,24 @@
+{
+  "name": "express-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ianpig/express-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ianpig/express-service/issues"
+  },
+  "homepage": "https://github.com/Ianpig/express-service#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.5",
+    "util": "^0.12.5"
+  }
+}
